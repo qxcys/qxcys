@@ -1,4 +1,5 @@
-[![MasterHead(url)]
+![MasterHead](https://raw.githubusercontent.com/qxcys/qxcys/main/banners/banner.jpg)
+
 # Helloo Homo Sapiens! I'm Enes 👽
 ### I'm a Software Developer
 
