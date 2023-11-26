@@ -1,8 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/qxcys/qxcys/main/banners/banner.jpg)
 
 # Helloo Homo Sapiens! I'm Enes 👽
-### I'm a Software Developer
 
+<img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/qxcys/badges/micro"> 
 - ⚡ I'm 18 years old and I have been interested in software development (etc..) since I was 11.
 - 👨‍💻 I do not working for any company or organisation. I develop whatever I want.
 - 🔭 I'm currently working on databases and AI.
@@ -10,6 +10,7 @@
 
 ---
 ### You can find Languages and Tools in this account and much more!
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="28">
   &nbsp;
