@@ -5,8 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/qxcys/badges/micro"> 
 - ⚡ I'm 18 years old and I have been interested in software development (etc..) since I was 11.
 - 👨‍💻 I do not working for any company or organisation. I develop whatever I want.
-- 🔭 I'm currently working on databases and AI.
-- 💬 Ask me about Frontend and Backend techs
+- 🔭 I'm currently working on databases, quantum programming and AI.
+- 💬 Also ask me about Frontend and Backend techs
 
 ---
 ### You can find Languages and Tools in this account and much more!
